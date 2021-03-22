@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a24c8156-f404-4d3b-885c-12f4a8ef9413" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LineChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/sentiHashtag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/sentiTweets.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/usuarioTweets.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/img/index_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/static/img/index_cart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dataConsulta/listData.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/listData.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dataConsulta/newDato.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/newDato.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/dataConsulta/reputacion.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/dataConsulta/reputacion.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="e13e8e61-e2ad-4a7e-8dab-566403797081" />
+  <component name="ProjectId" id="1mAOa1KmIFJ1U3HJgvIgzuXDWkb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/static/img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a24c8156-f404-4d3b-885c-12f4a8ef9413" name="Default" comment="" />
+      <created>1598248883117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598248883117</updated>
+      <workItem from="1608932994894" duration="1167000" />
+      <workItem from="1608934486610" duration="14891000" />
+      <workItem from="1609031708824" duration="4594000" />
+      <workItem from="1609079109822" duration="977000" />
+      <workItem from="1609080658615" duration="18613000" />
+      <workItem from="1609205388053" duration="218000" />
+      <workItem from="1609698163400" duration="7170000" />
+      <workItem from="1609807314262" duration="573000" />
+      <workItem from="1609874750107" duration="423000" />
+      <workItem from="1609878816053" duration="43000" />
+      <workItem from="1610480526940" duration="831000" />
+      <workItem from="1610577957216" duration="662000" />
+      <workItem from="1610732138727" duration="532000" />
+      <workItem from="1611580208440" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609698306504">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1609698306504" />
+    <state x="149" y="25" key="SettingsEditor" timestamp="1609698386637">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="25" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1609698386637" />
+    <state width="600" height="422" key="javadoc.popup" timestamp="1609085298098">
+      <screen x="0" y="25" width="1280" height="709" />
+    </state>
+    <state width="600" height="422" key="javadoc.popup/0.25.1280.709@0.25.1280.709" timestamp="1609085298098" />
+    <state width="600" height="424" key="javadoc.popup/0.25.1280.713@0.25.1280.713" timestamp="1608951798120" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1609700585220">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1609700585220" />
+  </component>
+</project>
